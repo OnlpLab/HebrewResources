@@ -23,7 +23,7 @@ If you use use the BMC corpus, please cite the original paper as well as our pap
 }
 ```
 
-*. Bareket and Tsarfaty (2020)
+* Bareket and Tsarfaty (2020)
 ```console
 @misc{bareket2020neural,
       title={Neural Modeling for Named Entities and Morphology (NEMO^2)}, 
