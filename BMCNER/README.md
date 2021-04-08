@@ -1,7 +1,7 @@
 # Splits for the Ben-Mordecai and Elhadad Hebrew NER Corpus (BMC)
 
 In order to evaluate performance in accordance with the original Ben-Mordecai and Elhadad (2005) work, we provide three 75%-25% random splits. 
-* Only the 7 entity categories viable for evaluation were kept (All MISC entities were filtered out)
+* Only the 7 entity categories viable for evaluation were kept (DATE, LOC, MONEY, ORG, PER, PERCENT, TIME) --- all MISC entities were filtered out.
 * Sequence label scheme was changed from IOB to BIOES
 * The dev sets are 10% taken from the 75% train split
 
