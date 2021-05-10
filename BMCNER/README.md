@@ -10,7 +10,7 @@ In order to evaluate performance in accordance with the original Ben-Mordecai an
 
 If you use use the BMC corpus, please cite the original paper as well as our paper which describes the splits:
 
-* Ben-Mordecaiand Elhadad (2005):
+* Ben-Mordecai and Elhadad (2005):
 ```console
 @mastersthesis{naama,
   title={Hebrew Named Entity Recognition},
